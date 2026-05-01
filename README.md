@@ -107,22 +107,16 @@ The project includes an interactive web app where users can:
 
 ---
 
-## 🎥 Demo Video
-
-👉 Watch the full project demo here:
-[![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue)](YOUR_VIDEO_LINK_HERE)
-
----
 
 ## 📸 Screenshots
 
 ### Dashboard UI
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ### Prediction Result
 
-![Prediction](images/result.png)
+![Prediction](images/Prediction.png)
 
 ### Confusion Matrix
 
